@@ -1,0 +1,15 @@
+D:\MCA\C#\BASICS_C#\Basics\bin\Debug\net8.0\Basics.exe
+D:\MCA\C#\BASICS_C#\Basics\bin\Debug\net8.0\Basics.deps.json
+D:\MCA\C#\BASICS_C#\Basics\bin\Debug\net8.0\Basics.runtimeconfig.json
+D:\MCA\C#\BASICS_C#\Basics\bin\Debug\net8.0\Basics.dll
+D:\MCA\C#\BASICS_C#\Basics\bin\Debug\net8.0\Basics.pdb
+D:\MCA\C#\BASICS_C#\Basics\obj\Debug\net8.0\Basics.GeneratedMSBuildEditorConfig.editorconfig
+D:\MCA\C#\BASICS_C#\Basics\obj\Debug\net8.0\Basics.AssemblyInfoInputs.cache
+D:\MCA\C#\BASICS_C#\Basics\obj\Debug\net8.0\Basics.AssemblyInfo.cs
+D:\MCA\C#\BASICS_C#\Basics\obj\Debug\net8.0\Basics.csproj.CoreCompileInputs.cache
+D:\MCA\C#\BASICS_C#\Basics\obj\Debug\net8.0\Basics.sourcelink.json
+D:\MCA\C#\BASICS_C#\Basics\obj\Debug\net8.0\Basics.dll
+D:\MCA\C#\BASICS_C#\Basics\obj\Debug\net8.0\refint\Basics.dll
+D:\MCA\C#\BASICS_C#\Basics\obj\Debug\net8.0\Basics.pdb
+D:\MCA\C#\BASICS_C#\Basics\obj\Debug\net8.0\Basics.genruntimeconfig.cache
+D:\MCA\C#\BASICS_C#\Basics\obj\Debug\net8.0\ref\Basics.dll
