@@ -1,0 +1,14 @@
+C:\Users\sarath\source\repos\Mobile_Functions\bin\Debug\net8.0\Mobile_Functions.exe
+C:\Users\sarath\source\repos\Mobile_Functions\bin\Debug\net8.0\Mobile_Functions.deps.json
+C:\Users\sarath\source\repos\Mobile_Functions\bin\Debug\net8.0\Mobile_Functions.runtimeconfig.json
+C:\Users\sarath\source\repos\Mobile_Functions\bin\Debug\net8.0\Mobile_Functions.dll
+C:\Users\sarath\source\repos\Mobile_Functions\bin\Debug\net8.0\Mobile_Functions.pdb
+C:\Users\sarath\source\repos\Mobile_Functions\obj\Debug\net8.0\Mobile_Functions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sarath\source\repos\Mobile_Functions\obj\Debug\net8.0\Mobile_Functions.AssemblyInfoInputs.cache
+C:\Users\sarath\source\repos\Mobile_Functions\obj\Debug\net8.0\Mobile_Functions.AssemblyInfo.cs
+C:\Users\sarath\source\repos\Mobile_Functions\obj\Debug\net8.0\Mobile_Functions.csproj.CoreCompileInputs.cache
+C:\Users\sarath\source\repos\Mobile_Functions\obj\Debug\net8.0\Mobile_Functions.dll
+C:\Users\sarath\source\repos\Mobile_Functions\obj\Debug\net8.0\refint\Mobile_Functions.dll
+C:\Users\sarath\source\repos\Mobile_Functions\obj\Debug\net8.0\Mobile_Functions.pdb
+C:\Users\sarath\source\repos\Mobile_Functions\obj\Debug\net8.0\Mobile_Functions.genruntimeconfig.cache
+C:\Users\sarath\source\repos\Mobile_Functions\obj\Debug\net8.0\ref\Mobile_Functions.dll
