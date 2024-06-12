@@ -51,7 +51,7 @@ namespace Mobile_Functions
 
         public void Print_Details()
         {
-
+            Console.WriteLine($"Brand: {Brand}, Model: {Model}, Battery Level: {BatteryLevel}%");
         }
         
       }

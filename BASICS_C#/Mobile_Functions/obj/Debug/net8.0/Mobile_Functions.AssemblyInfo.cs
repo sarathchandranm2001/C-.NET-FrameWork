@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Mobile_Functions")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+86dda3c277b0830fcdc02c05a736aec57df7aaa7")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+68cc9d43d6428f16e91957b9086a2a3c743748fb")]
 [assembly: System.Reflection.AssemblyProductAttribute("Mobile_Functions")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Mobile_Functions")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

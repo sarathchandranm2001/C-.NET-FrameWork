@@ -5,6 +5,7 @@
         static void Main(string[] args)
         {
             Mobile mobile=new Mobile("Apple","11Pro");
+
             Console.WriteLine("Enter choice \t 1.Make Call \t2.Battery Level \t3.Exit");
             int choice=int.Parse(Console.ReadLine());
             while (choice != 3) {
@@ -30,8 +31,12 @@
                 choice=int.Parse(Console.ReadLine());
 
             }
+            //Android myPhone = new Android("Samsung", "Galaxy S21", "11.0", "Android");
+           // myPhone.Print_Android_Details();
+            //myPhone.Make_Call("123-456-7890");
+            //myPhone.Charge_Battery(20);
+            //myPhone.Use_Model();
 
-            
         }
     }
 }
