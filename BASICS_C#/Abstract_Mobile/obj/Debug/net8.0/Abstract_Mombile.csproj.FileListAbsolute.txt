@@ -1,0 +1,14 @@
+C:\Users\sarath\source\repos\Abstract_Mombile\bin\Debug\net8.0\Abstract_Mombile.exe
+C:\Users\sarath\source\repos\Abstract_Mombile\bin\Debug\net8.0\Abstract_Mombile.deps.json
+C:\Users\sarath\source\repos\Abstract_Mombile\bin\Debug\net8.0\Abstract_Mombile.runtimeconfig.json
+C:\Users\sarath\source\repos\Abstract_Mombile\bin\Debug\net8.0\Abstract_Mombile.dll
+C:\Users\sarath\source\repos\Abstract_Mombile\bin\Debug\net8.0\Abstract_Mombile.pdb
+C:\Users\sarath\source\repos\Abstract_Mombile\obj\Debug\net8.0\Abstract_Mombile.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sarath\source\repos\Abstract_Mombile\obj\Debug\net8.0\Abstract_Mombile.AssemblyInfoInputs.cache
+C:\Users\sarath\source\repos\Abstract_Mombile\obj\Debug\net8.0\Abstract_Mombile.AssemblyInfo.cs
+C:\Users\sarath\source\repos\Abstract_Mombile\obj\Debug\net8.0\Abstract_Mombile.csproj.CoreCompileInputs.cache
+C:\Users\sarath\source\repos\Abstract_Mombile\obj\Debug\net8.0\Abstract_Mombile.dll
+C:\Users\sarath\source\repos\Abstract_Mombile\obj\Debug\net8.0\refint\Abstract_Mombile.dll
+C:\Users\sarath\source\repos\Abstract_Mombile\obj\Debug\net8.0\Abstract_Mombile.pdb
+C:\Users\sarath\source\repos\Abstract_Mombile\obj\Debug\net8.0\Abstract_Mombile.genruntimeconfig.cache
+C:\Users\sarath\source\repos\Abstract_Mombile\obj\Debug\net8.0\ref\Abstract_Mombile.dll
