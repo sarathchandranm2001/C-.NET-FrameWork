@@ -6,10 +6,14 @@ using System.Threading.Tasks;
 
 namespace Mobile_Functions
 {
-     public interface ICamera//interfaces should be given as public
+    interface ICamera
     {
-        public void Take_photo();
+        void TakePhoto();
     }
 
-
+    interface IGPS
+    {
+        void GetLocation();
+    }
 }
+

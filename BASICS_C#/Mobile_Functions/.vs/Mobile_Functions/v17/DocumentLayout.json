@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "D:\\MCA\\C#\\BASICS_C#\\Mobile_Functions\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{EADD7AEB-C798-4742-81BC-C64E87A751F1}|Mobile_Functions.csproj|d:\\mca\\c#\\basics_c#\\mobile_functions\\icamera.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EADD7AEB-C798-4742-81BC-C64E87A751F1}|Mobile_Functions.csproj|solutionrelative:icamera.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{EADD7AEB-C798-4742-81BC-C64E87A751F1}|Mobile_Functions.csproj|d:\\mca\\c#\\basics_c#\\mobile_functions\\mobile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EADD7AEB-C798-4742-81BC-C64E87A751F1}|Mobile_Functions.csproj|solutionrelative:mobile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{EADD7AEB-C798-4742-81BC-C64E87A751F1}|Mobile_Functions.csproj|d:\\mca\\c#\\basics_c#\\mobile_functions\\andriod.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -15,8 +15,8 @@
       "RelativeMoniker": "D:0:0:{EADD7AEB-C798-4742-81BC-C64E87A751F1}|Mobile_Functions.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EADD7AEB-C798-4742-81BC-C64E87A751F1}|Mobile_Functions.csproj|d:\\mca\\c#\\basics_c#\\mobile_functions\\mobile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EADD7AEB-C798-4742-81BC-C64E87A751F1}|Mobile_Functions.csproj|solutionrelative:mobile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{EADD7AEB-C798-4742-81BC-C64E87A751F1}|Mobile_Functions.csproj|d:\\mca\\c#\\basics_c#\\mobile_functions\\icamera.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EADD7AEB-C798-4742-81BC-C64E87A751F1}|Mobile_Functions.csproj|solutionrelative:icamera.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,7 +26,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
@@ -36,7 +36,7 @@
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "D:\\MCA\\C#\\BASICS_C#\\Mobile_Functions\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-12T03:42:26.721Z",
               "IsPinned": true,
@@ -44,13 +44,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "ICamera.cs",
               "DocumentMoniker": "D:\\MCA\\C#\\BASICS_C#\\Mobile_Functions\\ICamera.cs",
               "RelativeDocumentMoniker": "ICamera.cs",
               "ToolTip": "D:\\MCA\\C#\\BASICS_C#\\Mobile_Functions\\ICamera.cs",
               "RelativeToolTip": "ICamera.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-12T05:04:00.464Z",
               "EditorCaption": ""
@@ -63,20 +63,20 @@
               "RelativeDocumentMoniker": "Andriod.cs",
               "ToolTip": "D:\\MCA\\C#\\BASICS_C#\\Mobile_Functions\\Andriod.cs",
               "RelativeToolTip": "Andriod.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAJAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACIAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-12T04:46:52.621Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
               "Title": "Mobile.cs",
               "DocumentMoniker": "D:\\MCA\\C#\\BASICS_C#\\Mobile_Functions\\Mobile.cs",
               "RelativeDocumentMoniker": "Mobile.cs",
               "ToolTip": "D:\\MCA\\C#\\BASICS_C#\\Mobile_Functions\\Mobile.cs",
               "RelativeToolTip": "Mobile.cs",
-              "ViewState": "AQIAAA4AAAAAAAAAAAAAwDcAAAAIAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACYAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-12T03:54:18.921Z",
               "EditorCaption": ""

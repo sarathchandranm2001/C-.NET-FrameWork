@@ -8,51 +8,31 @@ namespace Mobile_Functions
 {
     internal class Mobile
     {
-        public string Brand;
-        public string Model;
-        public int BatteryLevel;
+        public string Brand { get; set; }
+        public string Model { get; set; }
+        public int BatteryLevel { get; set; }
 
-        public Mobile(String Brand,String Model) {
-            this.Brand = Brand;
-            this.Model = Model;
-            this.BatteryLevel = 75;
-        
-        }//initiate initial values for atrrtibutes
-
-        public void Make_Call(string phoneNumber)
+        public Mobile(string brand, string model)
         {
-            Console.WriteLine(phoneNumber);
-            
+            Brand = brand;
+            Model = model;
+            BatteryLevel = 75; // Initial battery level set to 75%
         }
 
-        public void Charge_Battery(int charge)
+        public void MakeCall(string phoneNumber)
         {
-            if (BatteryLevel == 0)
-            {
-                Console.WriteLine("No Battery ! Charge Your Mobile");
-            }
-            else if (BatteryLevel <= 10)
-            {
-                Console.WriteLine("Battery Level low !!! Charge Your Mobile");
-            }
-            else if (BatteryLevel == 100)
-            {
-                Console.WriteLine("Fully Charged");
-            }
-            else
-            {
-                Console.WriteLine($"Battery level {BatteryLevel}");
-            }
+            Console.WriteLine($"Making a call to {phoneNumber}...");
         }
 
-        public void Use_Model()
+        public void ChargeBattery(int charge)
         {
+            BatteryLevel = charge;
+            Console.WriteLine($"Battery charged to {BatteryLevel}%");
         }
 
-        public void Print_Details()
+        public void PrintDetails()
         {
             Console.WriteLine($"Brand: {Brand}, Model: {Model}, Battery Level: {BatteryLevel}%");
         }
-        
-      }
+    }
 }

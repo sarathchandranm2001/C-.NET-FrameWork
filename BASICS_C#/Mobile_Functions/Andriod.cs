@@ -6,31 +6,30 @@ using System.Threading.Tasks;
 
 namespace Mobile_Functions
 {
-    internal class Android : Mobile,ICamera//inherited class
+    internal class Android : Mobile, ICamera, IGPS
     {
-        public string Version;
-        public string OS;
+        public string OSVersion { get; set; }
 
-        public Android(string brand, string model, string version, string os)
-            : base(brand, model)//inherited methods
+        public Android(string brand, string model, string osVersion)
+            : base(brand, model)
         {
-            this.Version = version;
-            this.OS = os;
+            OSVersion = osVersion;
         }
-        public void Take_Photo()
+
+        public void TakePhoto()
         {
             Console.WriteLine("Taking a photo...");
         }
 
-        public void Print_Android_Details()
+        public void GetLocation()
         {
-            Console.WriteLine($"Brand: {Brand}, Model: {Model}, Version: {Version}, OS: {OS}, Battery Level: {BatteryLevel}%");
+            Console.WriteLine("Getting the current location...");
         }
 
-        public void Take_photo()
+        public void PrintAndroidDetails()
         {
-            throw new NotImplementedException();
+            Console.WriteLine($"Brand: {Brand}, Model: {Model}, OS Version: {OSVersion}, Battery Level: {BatteryLevel}%");
         }
     }
-
 }
+
