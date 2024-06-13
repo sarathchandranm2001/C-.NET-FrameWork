@@ -39,8 +39,7 @@
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-12T03:42:26.721Z",
-              "IsPinned": true,
-              "EditorCaption": ""
+              "IsPinned": true
             },
             {
               "$type": "Document",
@@ -52,8 +51,7 @@
               "RelativeToolTip": "ICamera.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-12T05:04:00.464Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-12T05:04:00.464Z"
             },
             {
               "$type": "Document",
@@ -65,8 +63,7 @@
               "RelativeToolTip": "Andriod.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAACIAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-12T04:46:52.621Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-12T04:46:52.621Z"
             },
             {
               "$type": "Document",
@@ -76,7 +73,7 @@
               "RelativeDocumentMoniker": "Mobile.cs",
               "ToolTip": "D:\\MCA\\C#\\BASICS_C#\\Mobile_Functions\\Mobile.cs",
               "RelativeToolTip": "Mobile.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAACYAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB0AAABFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-12T03:54:18.921Z",
               "EditorCaption": ""
