@@ -1,0 +1,15 @@
+D:\MCA\C#\Advanced.Net\GenericClasses\bin\Debug\net8.0\GenericClasses.exe
+D:\MCA\C#\Advanced.Net\GenericClasses\bin\Debug\net8.0\GenericClasses.deps.json
+D:\MCA\C#\Advanced.Net\GenericClasses\bin\Debug\net8.0\GenericClasses.runtimeconfig.json
+D:\MCA\C#\Advanced.Net\GenericClasses\bin\Debug\net8.0\GenericClasses.dll
+D:\MCA\C#\Advanced.Net\GenericClasses\bin\Debug\net8.0\GenericClasses.pdb
+D:\MCA\C#\Advanced.Net\GenericClasses\obj\Debug\net8.0\GenericClasses.GeneratedMSBuildEditorConfig.editorconfig
+D:\MCA\C#\Advanced.Net\GenericClasses\obj\Debug\net8.0\GenericClasses.AssemblyInfoInputs.cache
+D:\MCA\C#\Advanced.Net\GenericClasses\obj\Debug\net8.0\GenericClasses.AssemblyInfo.cs
+D:\MCA\C#\Advanced.Net\GenericClasses\obj\Debug\net8.0\GenericClasses.csproj.CoreCompileInputs.cache
+D:\MCA\C#\Advanced.Net\GenericClasses\obj\Debug\net8.0\GenericClasses.sourcelink.json
+D:\MCA\C#\Advanced.Net\GenericClasses\obj\Debug\net8.0\GenericClasses.dll
+D:\MCA\C#\Advanced.Net\GenericClasses\obj\Debug\net8.0\refint\GenericClasses.dll
+D:\MCA\C#\Advanced.Net\GenericClasses\obj\Debug\net8.0\GenericClasses.pdb
+D:\MCA\C#\Advanced.Net\GenericClasses\obj\Debug\net8.0\GenericClasses.genruntimeconfig.cache
+D:\MCA\C#\Advanced.Net\GenericClasses\obj\Debug\net8.0\ref\GenericClasses.dll
