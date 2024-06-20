@@ -1,0 +1,15 @@
+D:\MCA\C#\Advanced.Net\Module2_C#\bin\Debug\net8.0\Module2_C#.exe
+D:\MCA\C#\Advanced.Net\Module2_C#\bin\Debug\net8.0\Module2_C#.deps.json
+D:\MCA\C#\Advanced.Net\Module2_C#\bin\Debug\net8.0\Module2_C#.runtimeconfig.json
+D:\MCA\C#\Advanced.Net\Module2_C#\bin\Debug\net8.0\Module2_C#.dll
+D:\MCA\C#\Advanced.Net\Module2_C#\bin\Debug\net8.0\Module2_C#.pdb
+D:\MCA\C#\Advanced.Net\Module2_C#\obj\Debug\net8.0\Module2_C#.GeneratedMSBuildEditorConfig.editorconfig
+D:\MCA\C#\Advanced.Net\Module2_C#\obj\Debug\net8.0\Module2_C#.AssemblyInfoInputs.cache
+D:\MCA\C#\Advanced.Net\Module2_C#\obj\Debug\net8.0\Module2_C#.AssemblyInfo.cs
+D:\MCA\C#\Advanced.Net\Module2_C#\obj\Debug\net8.0\Module2_C#.csproj.CoreCompileInputs.cache
+D:\MCA\C#\Advanced.Net\Module2_C#\obj\Debug\net8.0\Module2_C#.sourcelink.json
+D:\MCA\C#\Advanced.Net\Module2_C#\obj\Debug\net8.0\Module2_C#.dll
+D:\MCA\C#\Advanced.Net\Module2_C#\obj\Debug\net8.0\refint\Module2_C#.dll
+D:\MCA\C#\Advanced.Net\Module2_C#\obj\Debug\net8.0\Module2_C#.pdb
+D:\MCA\C#\Advanced.Net\Module2_C#\obj\Debug\net8.0\Module2_C#.genruntimeconfig.cache
+D:\MCA\C#\Advanced.Net\Module2_C#\obj\Debug\net8.0\ref\Module2_C#.dll
