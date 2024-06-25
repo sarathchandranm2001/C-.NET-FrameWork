@@ -1,0 +1,15 @@
+D:\MCA\C#\Advanced.Net\Dynamic_Variable_in_Generic\bin\Debug\net8.0\Dynamic_Variable_in_Generic.exe
+D:\MCA\C#\Advanced.Net\Dynamic_Variable_in_Generic\bin\Debug\net8.0\Dynamic_Variable_in_Generic.deps.json
+D:\MCA\C#\Advanced.Net\Dynamic_Variable_in_Generic\bin\Debug\net8.0\Dynamic_Variable_in_Generic.runtimeconfig.json
+D:\MCA\C#\Advanced.Net\Dynamic_Variable_in_Generic\bin\Debug\net8.0\Dynamic_Variable_in_Generic.dll
+D:\MCA\C#\Advanced.Net\Dynamic_Variable_in_Generic\bin\Debug\net8.0\Dynamic_Variable_in_Generic.pdb
+D:\MCA\C#\Advanced.Net\Dynamic_Variable_in_Generic\obj\Debug\net8.0\Dynamic_Variable_in_Generic.GeneratedMSBuildEditorConfig.editorconfig
+D:\MCA\C#\Advanced.Net\Dynamic_Variable_in_Generic\obj\Debug\net8.0\Dynamic_Variable_in_Generic.AssemblyInfoInputs.cache
+D:\MCA\C#\Advanced.Net\Dynamic_Variable_in_Generic\obj\Debug\net8.0\Dynamic_Variable_in_Generic.AssemblyInfo.cs
+D:\MCA\C#\Advanced.Net\Dynamic_Variable_in_Generic\obj\Debug\net8.0\Dynamic_Variable_in_Generic.csproj.CoreCompileInputs.cache
+D:\MCA\C#\Advanced.Net\Dynamic_Variable_in_Generic\obj\Debug\net8.0\Dynamic_Variable_in_Generic.sourcelink.json
+D:\MCA\C#\Advanced.Net\Dynamic_Variable_in_Generic\obj\Debug\net8.0\Dynamic_Variable_in_Generic.dll
+D:\MCA\C#\Advanced.Net\Dynamic_Variable_in_Generic\obj\Debug\net8.0\refint\Dynamic_Variable_in_Generic.dll
+D:\MCA\C#\Advanced.Net\Dynamic_Variable_in_Generic\obj\Debug\net8.0\Dynamic_Variable_in_Generic.pdb
+D:\MCA\C#\Advanced.Net\Dynamic_Variable_in_Generic\obj\Debug\net8.0\Dynamic_Variable_in_Generic.genruntimeconfig.cache
+D:\MCA\C#\Advanced.Net\Dynamic_Variable_in_Generic\obj\Debug\net8.0\ref\Dynamic_Variable_in_Generic.dll
