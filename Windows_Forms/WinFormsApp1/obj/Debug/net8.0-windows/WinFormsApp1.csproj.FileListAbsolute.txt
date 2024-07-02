@@ -1,0 +1,17 @@
+D:\MCA\C#\Windows_Forms\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.exe
+D:\MCA\C#\Windows_Forms\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.deps.json
+D:\MCA\C#\Windows_Forms\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.runtimeconfig.json
+D:\MCA\C#\Windows_Forms\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.dll
+D:\MCA\C#\Windows_Forms\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.pdb
+D:\MCA\C#\Windows_Forms\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.Form1.resources
+D:\MCA\C#\Windows_Forms\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.csproj.GenerateResource.cache
+D:\MCA\C#\Windows_Forms\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.GeneratedMSBuildEditorConfig.editorconfig
+D:\MCA\C#\Windows_Forms\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.AssemblyInfoInputs.cache
+D:\MCA\C#\Windows_Forms\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.AssemblyInfo.cs
+D:\MCA\C#\Windows_Forms\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.csproj.CoreCompileInputs.cache
+D:\MCA\C#\Windows_Forms\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.sourcelink.json
+D:\MCA\C#\Windows_Forms\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.dll
+D:\MCA\C#\Windows_Forms\WinFormsApp1\obj\Debug\net8.0-windows\refint\WinFormsApp1.dll
+D:\MCA\C#\Windows_Forms\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.pdb
+D:\MCA\C#\Windows_Forms\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.genruntimeconfig.cache
+D:\MCA\C#\Windows_Forms\WinFormsApp1\obj\Debug\net8.0-windows\ref\WinFormsApp1.dll
