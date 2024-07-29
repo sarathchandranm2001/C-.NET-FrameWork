@@ -1,0 +1,17 @@
+D:\MCA\C#\WindowsAPPmod4\Firstwindowsapplication\bin\Debug\net8.0-windows\Firstwindowsapplication.exe
+D:\MCA\C#\WindowsAPPmod4\Firstwindowsapplication\bin\Debug\net8.0-windows\Firstwindowsapplication.deps.json
+D:\MCA\C#\WindowsAPPmod4\Firstwindowsapplication\bin\Debug\net8.0-windows\Firstwindowsapplication.runtimeconfig.json
+D:\MCA\C#\WindowsAPPmod4\Firstwindowsapplication\bin\Debug\net8.0-windows\Firstwindowsapplication.dll
+D:\MCA\C#\WindowsAPPmod4\Firstwindowsapplication\bin\Debug\net8.0-windows\Firstwindowsapplication.pdb
+D:\MCA\C#\WindowsAPPmod4\Firstwindowsapplication\obj\Debug\net8.0-windows\Firstwindowsapplication.Form1.resources
+D:\MCA\C#\WindowsAPPmod4\Firstwindowsapplication\obj\Debug\net8.0-windows\Firstwindowsapplication.csproj.GenerateResource.cache
+D:\MCA\C#\WindowsAPPmod4\Firstwindowsapplication\obj\Debug\net8.0-windows\Firstwindowsapplication.GeneratedMSBuildEditorConfig.editorconfig
+D:\MCA\C#\WindowsAPPmod4\Firstwindowsapplication\obj\Debug\net8.0-windows\Firstwindowsapplication.AssemblyInfoInputs.cache
+D:\MCA\C#\WindowsAPPmod4\Firstwindowsapplication\obj\Debug\net8.0-windows\Firstwindowsapplication.AssemblyInfo.cs
+D:\MCA\C#\WindowsAPPmod4\Firstwindowsapplication\obj\Debug\net8.0-windows\Firstwindowsapplication.csproj.CoreCompileInputs.cache
+D:\MCA\C#\WindowsAPPmod4\Firstwindowsapplication\obj\Debug\net8.0-windows\Firstwindowsapplication.sourcelink.json
+D:\MCA\C#\WindowsAPPmod4\Firstwindowsapplication\obj\Debug\net8.0-windows\Firstwindowsapplication.dll
+D:\MCA\C#\WindowsAPPmod4\Firstwindowsapplication\obj\Debug\net8.0-windows\refint\Firstwindowsapplication.dll
+D:\MCA\C#\WindowsAPPmod4\Firstwindowsapplication\obj\Debug\net8.0-windows\Firstwindowsapplication.pdb
+D:\MCA\C#\WindowsAPPmod4\Firstwindowsapplication\obj\Debug\net8.0-windows\Firstwindowsapplication.genruntimeconfig.cache
+D:\MCA\C#\WindowsAPPmod4\Firstwindowsapplication\obj\Debug\net8.0-windows\ref\Firstwindowsapplication.dll

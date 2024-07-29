@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("DBConnectForm")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9243ad51865e3ca169624e626a0d0481a7538b2b")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+94f33cdaa4b6fb312f4098a3d5677e78383a7e22")]
 [assembly: System.Reflection.AssemblyProductAttribute("DBConnectForm")]
 [assembly: System.Reflection.AssemblyTitleAttribute("DBConnectForm")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

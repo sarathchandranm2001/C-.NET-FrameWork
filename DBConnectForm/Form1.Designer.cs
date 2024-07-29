@@ -34,28 +34,33 @@
             // 
             // login
             // 
+            login.BackColor = SystemColors.ActiveCaptionText;
+            login.ForeColor = SystemColors.ButtonHighlight;
             login.Location = new Point(225, 110);
             login.Name = "login";
             login.Size = new Size(335, 112);
             login.TabIndex = 0;
             login.Text = "LOGIN";
-            login.UseVisualStyleBackColor = true;
+            login.UseVisualStyleBackColor = false;
             login.Click += login_Click;
             // 
             // register
             // 
+            register.BackColor = SystemColors.ActiveCaptionText;
+            register.ForeColor = SystemColors.ButtonHighlight;
             register.Location = new Point(225, 245);
             register.Name = "register";
             register.Size = new Size(335, 112);
             register.TabIndex = 1;
             register.Text = "REGISTER";
-            register.UseVisualStyleBackColor = true;
+            register.UseVisualStyleBackColor = false;
             register.Click += register_Click;
             // 
             // Form1
             // 
             AutoScaleDimensions = new SizeF(8F, 20F);
             AutoScaleMode = AutoScaleMode.Font;
+            BackColor = SystemColors.GradientActiveCaption;
             ClientSize = new Size(800, 450);
             Controls.Add(register);
             Controls.Add(login);
