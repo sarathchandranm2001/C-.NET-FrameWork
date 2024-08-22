@@ -1,0 +1,79 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\MCA\\C#\\ASPnet(WebApps)\\web3aspweb\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7BAE1B65-0DF4-48AE-B338-C6E49F1541F8}|web3aspweb.csproj|d:\\mca\\c#\\aspnet(webapps)\\web3aspweb\\default.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{7BAE1B65-0DF4-48AE-B338-C6E49F1541F8}|web3aspweb.csproj|solutionrelative:default.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BAE1B65-0DF4-48AE-B338-C6E49F1541F8}|web3aspweb.csproj|d:\\mca\\c#\\aspnet(webapps)\\web3aspweb\\default.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7BAE1B65-0DF4-48AE-B338-C6E49F1541F8}|web3aspweb.csproj|solutionrelative:default.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BAE1B65-0DF4-48AE-B338-C6E49F1541F8}|web3aspweb.csproj|d:\\mca\\c#\\aspnet(webapps)\\web3aspweb\\default.aspx.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7BAE1B65-0DF4-48AE-B338-C6E49F1541F8}|web3aspweb.csproj|solutionrelative:default.aspx.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Default.aspx.cs",
+              "DocumentMoniker": "D:\\MCA\\C#\\ASPnet(WebApps)\\web3aspweb\\Default.aspx.cs",
+              "RelativeDocumentMoniker": "Default.aspx.cs",
+              "ToolTip": "D:\\MCA\\C#\\ASPnet(WebApps)\\web3aspweb\\Default.aspx.cs",
+              "RelativeToolTip": "Default.aspx.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAgwBIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-08T06:09:02.952Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Default.aspx.designer.cs",
+              "DocumentMoniker": "D:\\MCA\\C#\\ASPnet(WebApps)\\web3aspweb\\Default.aspx.designer.cs",
+              "RelativeDocumentMoniker": "Default.aspx.designer.cs",
+              "ToolTip": "D:\\MCA\\C#\\ASPnet(WebApps)\\web3aspweb\\Default.aspx.designer.cs",
+              "RelativeToolTip": "Default.aspx.designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAwCMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-08T05:55:40.859Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Default.aspx",
+              "DocumentMoniker": "D:\\MCA\\C#\\ASPnet(WebApps)\\web3aspweb\\Default.aspx",
+              "RelativeDocumentMoniker": "Default.aspx",
+              "ToolTip": "D:\\MCA\\C#\\ASPnet(WebApps)\\web3aspweb\\Default.aspx",
+              "RelativeToolTip": "Default.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-08-06T07:16:51.234Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
